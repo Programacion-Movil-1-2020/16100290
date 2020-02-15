@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc597866-e269-494b-8b5a-0344efac2f10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xlqi133yl0eQZByREzfHg8ZBTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PCMakerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Practica 1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PCMakerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PCMakerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc597866-e269-494b-8b5a-0344efac2f10" name="Default Changelist" comment="" />
+      <created>1581631151080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581631151080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1317" height="221" key="GridCell.Tab.0.bottom" timestamp="1581645270594">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.0.bottom/0.32.1360.736@0.32.1360.736" timestamp="1581645270594" />
+    <state width="1317" height="221" key="GridCell.Tab.0.center" timestamp="1581645270594">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.0.center/0.32.1360.736@0.32.1360.736" timestamp="1581645270594" />
+    <state width="1317" height="221" key="GridCell.Tab.0.left" timestamp="1581645270594">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.0.left/0.32.1360.736@0.32.1360.736" timestamp="1581645270594" />
+    <state width="1317" height="221" key="GridCell.Tab.0.right" timestamp="1581645270594">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.0.right/0.32.1360.736@0.32.1360.736" timestamp="1581645270594" />
+    <state width="1317" height="221" key="GridCell.Tab.1.bottom" timestamp="1581645270595">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.1.bottom/0.32.1360.736@0.32.1360.736" timestamp="1581645270595" />
+    <state width="1317" height="221" key="GridCell.Tab.1.center" timestamp="1581645270595">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.1.center/0.32.1360.736@0.32.1360.736" timestamp="1581645270595" />
+    <state width="1317" height="221" key="GridCell.Tab.1.left" timestamp="1581645270595">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.1.left/0.32.1360.736@0.32.1360.736" timestamp="1581645270595" />
+    <state width="1317" height="221" key="GridCell.Tab.1.right" timestamp="1581645270595">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state width="1317" height="221" key="GridCell.Tab.1.right/0.32.1360.736@0.32.1360.736" timestamp="1581645270595" />
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581707536729">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog/0.32.1360.736@0.32.1360.736" timestamp="1581707536729" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practica_1$PCMakerKt.ic" NAME="PCMakerKt Coverage Results" MODIFIED="1581638862137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
