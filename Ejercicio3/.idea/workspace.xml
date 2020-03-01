@@ -59,22 +59,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1317" height="218" key="GridCell.Tab.0.bottom" timestamp="1582658045437">
+    <state width="1317" height="218" key="GridCell.Tab.0.bottom" timestamp="1583027019508">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1317" height="218" key="GridCell.Tab.0.bottom/0.32.1360.736@0.32.1360.736" timestamp="1582658045437" />
-    <state width="1317" height="218" key="GridCell.Tab.0.center" timestamp="1582658045437">
+    <state width="1317" height="218" key="GridCell.Tab.0.bottom/0.32.1360.736@0.32.1360.736" timestamp="1583027019508" />
+    <state width="1317" height="218" key="GridCell.Tab.0.center" timestamp="1583027019508">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1317" height="218" key="GridCell.Tab.0.center/0.32.1360.736@0.32.1360.736" timestamp="1582658045437" />
-    <state width="1317" height="218" key="GridCell.Tab.0.left" timestamp="1582658045437">
+    <state width="1317" height="218" key="GridCell.Tab.0.center/0.32.1360.736@0.32.1360.736" timestamp="1583027019508" />
+    <state width="1317" height="218" key="GridCell.Tab.0.left" timestamp="1583027019508">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1317" height="218" key="GridCell.Tab.0.left/0.32.1360.736@0.32.1360.736" timestamp="1582658045437" />
-    <state width="1317" height="218" key="GridCell.Tab.0.right" timestamp="1582658045437">
+    <state width="1317" height="218" key="GridCell.Tab.0.left/0.32.1360.736@0.32.1360.736" timestamp="1583027019508" />
+    <state width="1317" height="218" key="GridCell.Tab.0.right" timestamp="1583027019508">
       <screen x="0" y="32" width="1360" height="736" />
     </state>
-    <state width="1317" height="218" key="GridCell.Tab.0.right/0.32.1360.736@0.32.1360.736" timestamp="1582658045437" />
+    <state width="1317" height="218" key="GridCell.Tab.0.right/0.32.1360.736@0.32.1360.736" timestamp="1583027019508" />
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583022861784">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="376" y="225" key="com.intellij.ide.util.TipDialog/0.32.1360.736@0.32.1360.736" timestamp="1583022861784" />
+    <state x="62" y="125" key="new project wizard" timestamp="1582659312387">
+      <screen x="0" y="32" width="1360" height="736" />
+    </state>
+    <state x="62" y="125" key="new project wizard/0.32.1360.736@0.32.1360.736" timestamp="1582659312387" />
     <state x="336" y="180" key="run.anything.popup" timestamp="1582657948329">
       <screen x="0" y="32" width="1360" height="736" />
     </state>

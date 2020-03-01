@@ -14,7 +14,7 @@ class Password {
     get() = field
 
     constructor() {
-
+        generarContrasena()
     }
 
     constructor(longitud: Int) {
@@ -27,7 +27,7 @@ class Password {
         var cont = 0
         var contrasena = ""
 
-        while(cont <= vueltas) {
+        while(cont <= vueltas - 1) {
             var numero = (0..75).random()
 
             if (numero in 0..25) {
@@ -40,8 +40,9 @@ class Password {
                 contrasena += (0..9).random().toString()
                 cont++
             }
+
         }
-        this.contrasenia = contrasenia
+        this.contrasenia = contrasena
         /*var contmay = 0
         var contmin = 0
         var connum = 0
